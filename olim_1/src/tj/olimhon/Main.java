@@ -7,7 +7,9 @@ public class Main {
 	    int y = 6;
 
 	    int a = x + y;
+	    int b = x * y;
 
-        System.out.println(a);
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
     }
 }
